@@ -47,6 +47,11 @@ Missing Values: ? (Yes)
 **Target**
 >50K, <=50K.
 
+### Notebook
+[GitHub] (https://github.com/emax4/Income-Classification/blob/master/Income.ipynb)
+[nbviewer] (https://nbviewer.jupyter.org/github/emax4/Income-Classification/blob/master/Income.ipynb(
+
+
 ### Model Accuracy
 | Model  | Accuracy |
 | ------------- | ------------- |
