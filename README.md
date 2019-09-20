@@ -19,7 +19,8 @@ The purpose of this project is to predict whether income exceeds $50K/yr based o
 * SciPy
 
 ### Data
-Also known as "Adult" dataset. The Data can be found here
+Also known as "Adult" dataset. The data can be  found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
+
 Number of Instances: 48842
 Number of Attributes: 14
 Missing Values: ? (Yes)
