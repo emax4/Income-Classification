@@ -1,6 +1,6 @@
 # Income-Classification
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to predict whether income exceeds $50K/yr based on census data
 
 
 
@@ -19,6 +19,10 @@ The purpose of this project is ________. (Describe the main goals of the project
 * SciPy
 
 ### Data
+Also known as "Adult" dataset. The Data can be found here
+Number of Instances: 48842
+Number of Attributes: 14
+Missing Values: ? (Yes)
 
 **Continuous Attributes**
 1. age:
@@ -39,5 +43,6 @@ The purpose of this project is ________. (Describe the main goals of the project
  13. sex: Female, Male.
  14. native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
 
-
+**Target**
+>50K, <=50K.
 
