@@ -47,3 +47,5 @@ Missing Values: ? (Yes)
 **Target**
 >50K, <=50K.
 
+### Model Accuracy
+![Alt text](/Images/dtree_conf_mat.png?raw=true "Optional Title")
