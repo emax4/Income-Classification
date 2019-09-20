@@ -1,5 +1,5 @@
 # Income-Classification
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to predict whether income exceeds $50K/yr based on census data
 
 
