@@ -48,4 +48,8 @@ Missing Values: ? (Yes)
 >50K, <=50K.
 
 ### Model Accuracy
-![Alt text](/Images/dtree_conf_mat.png?raw=true "Optional Title")
+| Model  | Accuracy |
+| ------------- | ------------- |
+| Logistic Regression  | 82.6% |
+| Decision Tree  | 85.3%  |
+| Decision Tree  | 86.3%  |
