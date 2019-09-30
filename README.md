@@ -58,4 +58,4 @@ Missing Values: ? (Yes)
 | ------------- | ------------- |
 | Logistic Regression  | 82.6% |
 | Decision Tree  | 85.3%  |
-| Decision Tree  | 86.3%  |
+| Random Forest  | 86.3%  |
